@@ -1,0 +1,30 @@
+# Environment files
+frontend/.env
+backend/.env
+.env
+
+# Go binaries
+backend/server
+backend/*.exe
+
+# Go build cache
+backend/tmp/
+
+# Node modules
+frontend/node_modules/
+
+# Frontend build output
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
+
+# Logs
+*.log
